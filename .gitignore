@@ -1,0 +1,33 @@
+# Android Studio
+/.idea
+/*.iml
+/.gradle
+/local.properties
+/.captures
+/captures/
+/build/
+/app/build/
+/out/
+
+# Arquivos de configuração
+*.iml
+.gradle
+/local.properties
+
+# Diretórios específicos do projeto
+/.idea/
+/captures/
+/build/
+/app/build/
+/out/
+
+# Arquivos gerados durante o build
+/captures/
+/build/
+/app/build/
+
+# Arquivos de log e caches
+*.log
+/build/
+/captures/
+/.cxx/
